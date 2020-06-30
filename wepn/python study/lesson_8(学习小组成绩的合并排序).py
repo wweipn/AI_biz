@@ -9,9 +9,13 @@ A = [91, 95, 97, 99]，B = [92, 93, 96, 98] 。
 """
 A = [91, 95, 97, 99]
 B = [92, 93, 96, 98]
-C = []
-for i in A:
-    C.append(i)
-for i in B:
-    C.append(i)
+# 定义一个list C ,等于A并增加list B的内容
+C = A
+A.extend(B)
+C.reverse()  # 排列反转
 print(C)
+C.sort()  # 升序排列
+print(C)
+print(sorted(C, reverse=True))    # 降序并打印
+print(sorted(C, reverse=True))    # 升序并打印
+
