@@ -58,7 +58,6 @@ def start(*args):
     print('恭喜{}获得了奖励'.format(random.choice(args)))
 
 
-
 def info():
     n = 3
     for i in range(3):
