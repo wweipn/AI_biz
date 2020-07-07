@@ -25,7 +25,7 @@
 not_bad_word = True
 while not_bad_word:
     x = input('请给旺财取个外号：')
-    if x == '小狗' or x =='汪汪':
+    if x == '小狗' or x == '汪汪':
         print('我生气了，不想理你了！')
         not_bad_word = False
 print('对不起，以后我不会这么叫你了')
