@@ -8,3 +8,4 @@ for item in items:
     comment = item.find('p')
     print(comment.text)
 
+
