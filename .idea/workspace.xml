@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:python_stydy" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88392680-13f1-44eb-b17f-74c154f28b4f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/python_Autotest/1 2 5 10 计算凑15的总数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_0(打印皮卡丘).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_0.1(听见无脸男的声音).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_1(程序员的一人饮酒醉).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_1.1(非酋的吐槽).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_10(和电脑玩石头剪刀布).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_11(一起来debug).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_12(一次性说完).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_12.1(重要的事情说三遍).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_13(老师和父亲).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_13.1(学习时间记录).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_2(寻找宝石).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_2.1(美国队长的工资).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_3(哈利波特的宠物).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_3.1(罗恩的减肥计划).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_3.2(古灵阁金币兑换).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_4(君子爱“数”,取之有道).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_4.1(找到那只狼).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_5(循环加判断，我们不要4).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_5.1(轮流坐前排).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_6(囚徒困境).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_6.1(记录困境中的选择).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_6.2(演员的作品).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_7(再来一盘).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_7.1(再来一种).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_8(学习小组成绩的合并排序).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_8.1(老师我又来了).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_9(年终奖有多少？).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/lesson_9.1(hellokitty 抽奖器 ).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/spider_leeson_0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/spider_leeson_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/spider_leeson_2.1(书店寻宝).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/spider_leeson_2.2(提取博客文章).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/spider_leeson_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/spider_lesson_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/spider_lesson_3.1(豆瓣电影爬虫).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/spider_lesson_3.2(下载电影天堂的电影).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/spider_lesson_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/spider_lesson_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/spider_lesson_5.1(歌词爬虫 ).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wepn/python study/函数修改为类(实例).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../wepn/python study/test_push.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wepn/.idea/misc.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1erlvvIjGTcEzl0wEsmkvmDBcUV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Wepn\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88392680-13f1-44eb-b17f-74c154f28b4f" name="Default Changelist" comment="" />
+      <created>1595087826323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595087826323</updated>
+    </task>
+    <task id="LOCAL-00001" summary="新增配置文件">
+      <created>1595088258677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595088258677</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增配置文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增配置文件" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="704" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595088127094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595088127094" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1595142370417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595142370417" />
+    <state x="832" y="417" key="Github.ShareDialog" timestamp="1595088094261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595088094261" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1595140058465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595140058465" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1595139982317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595139982317" />
+    <state x="648" y="307" key="git4idea.merge.GitPullDialog" timestamp="1595185749407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="648" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595185749407" />
+    <state x="731" y="409" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595185963585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="409" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595185963585" />
+  </component>
+</project>
